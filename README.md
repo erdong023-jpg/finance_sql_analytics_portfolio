@@ -16,10 +16,10 @@ This portfolio demonstrates **production-ready SQL expertise** applied to critic
 
 ### The Challenge
 Financial firms manage trillions in assets but struggle with
-1. Fragmented Data Systems: Portfolio data in spreadsheets, risk metrics in separate databases
-2. Manual Reporting Processes: Analysts spending 40+ hours weekly on repetitive Excel tasks
-3. Compliance Risks**: Inaccurate VaR calculations leading to regulatory penalties
-4. Inefficient Trading Decisions: Delayed analysis causing missed opportunities
+- Fragmented Data Systems: Portfolio data in spreadsheets, risk metrics in separate databases
+- Manual Reporting Processes: Analysts spending 40+ hours weekly on repetitive Excel tasks
+- Compliance Risks: Inaccurate VaR calculations leading to regulatory penalties
+- Inefficient Trading Decisions: Delayed analysis causing missed opportunities
 
 ### Industry Impact
 - JPMorgan Chase: $920M trading loss (2012) due to flawed risk modeling
